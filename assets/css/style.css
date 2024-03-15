@@ -261,7 +261,7 @@ footer {
 }
 
 .progress-type {
-    position: relative;
+    position: absolute;
     left: 0px;
     font-weight: 400;
     padding: 3px 30px 2px 10px;
